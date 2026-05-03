@@ -127,3 +127,35 @@ Data modeling
 Data transformation
 Visualization
 Business storytelling
+
+
+## 📂 Dataset & Dashboard Access
+
+Due to GitHub file size limitations, the full dataset and Power BI dashboard are hosted externally.
+
+### 📊 Dataset
+
+The dataset contains **1M+ rows**, simulating real-world e-commerce scale.
+
+🔗 Full Dataset: [Add Google Drive / OneDrive Link Here]
+
+A **sample dataset** is included in this repository for preview and testing purposes.
+
+---
+
+### 📈 Power BI Dashboard
+
+The complete Power BI file (.pbix) is available via the link below:
+
+🔗 Full PBIX File: 
+
+: https://1drv.ms/u/c/9ae10efb695d99b7/IQBybkiaAXS_SrVqBXQHD6k9AQ8q_EgPjKBLNOikUMxttsc?e=jgHqdJ
+
+🔗 Dataset: 
+
+:https://1drv.ms/x/c/9ae10efb695d99b7/IQCOsNvQuitjS7p-EbDid3FhASr6TRSLwbcCol7Iyz6fvnI?e=2anZJ1
+
+### ⚠️ Notes
+
+- The full dataset and PBIX file are hosted externally due to size constraints (>100 MB and > 50 MB).
+- This project is designed to simulate **real-world data scale and complexity**.
